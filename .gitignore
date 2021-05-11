@@ -1,4 +1,5 @@
 .ipynb_checkpoints
 **/data/
+**/logs/
 __pycache__
 .vscode/
